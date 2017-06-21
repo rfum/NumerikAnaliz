@@ -13,7 +13,7 @@ int main()
 	return 0;
 }
 
-int simpson()
+float simpson()
 {
 	float h=(b-a)/n;
 	float p1=0.0,p2=0.0,p3=0.0; //formuldeki parantezler
