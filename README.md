@@ -1,4 +1,4 @@
-runge-kutta : 1. dereceden adi diferansiyel denklemlerin nümerik karşılığını hesaplamak için kullanılan 4. seviye runge-kutta metoduna ait algoritmaların c kaynak kodunu içerir.
+runge-kutta : 1. dereceden adi diferansiyel denklemlerin nümerik karşılığını hesaplamak için kullanılan 4. seviye runge-kutta metoduna ait algoritmaların c++ kaynak kodunu içerir.
 
 ![alt text](https://i.hizliresim.com/zBYW1R.png)
 
